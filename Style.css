@@ -1,0 +1,169 @@
+body{
+    background-color: rgba(0, 0, 0, 0.899);
+    padding: 30px;
+    padding-top: 5px;
+    text-align: center;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+h1{
+    color:rgb(231, 145, 174);
+}
+.o{
+    margin-left: 5px;
+}
+.n{
+    margin-left: 5px;
+}
+.e{
+    margin-left: 5px;
+}
+.t{
+    margin-left: 5px;
+}
+.th{
+    margin-left: 5px;
+}
+.h{
+    color:rgb(198, 49, 198);;
+    font-size: 50px;
+}
+.r{
+    color:rgb(231, 145, 174);
+    font-size: 40px;
+}
+
+h2{
+    color: white;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+}
+.butt:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.am{
+    color:rgb(198, 49, 198);
+    font-size: 36px;
+}
+.skl {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.box {
+  width: 260px;
+  height: 240px;          
+  padding: 20px;
+  border-radius: 15px;
+  background: #111;
+  color: white;
+  border: 2px solid #888;
+  text-align: center;
+
+  transition: all 0.3s ease;
+}
+
+
+.box h3 {
+  margin-bottom: 15px;
+  font-size: 20px;
+  color: #ffb6c1;
+}
+
+
+.box ul li {
+  margin: 8px 0;
+  font-size: 20px;
+}
+
+.box:hover {
+  transform: translateY(-10px);
+  background: linear-gradient(135deg, #ff69b4, #8a2be2);
+  color: white;
+  border-color: white;
+}
+.sk2{
+    display: block;
+}
+.sk {
+  font-size: 36px;
+  color:rgb(198, 49, 198);
+}
+.pro{
+    font-size: 36px;
+    color:rgb(198, 49, 198);
+}
+.lost{
+    color:rgb(231, 145, 174);
+}
+.project{
+    border-color: black;
+    border-radius: 15px;
+    border-style: solid;
+    display: inline-block;
+    width: 400px;
+    padding: 20px;
+}
+.project1{
+    border-color: black;
+    border-radius: 15px;
+    border-style: solid;
+    display: inline-block;
+    width: 400px;
+    margin-top: 5%;
+    padding: 20px;
+}
+
+
+.project:hover{
+    transform: translateY(-10px);
+    background: linear-gradient(135deg, #ff69b4, #8a2be2);
+    color: white;
+    border-color: white;
+}
+.project1:hover{
+    transform: translateY(-10px);
+    background: linear-gradient(135deg, #ff69b4, #8a2be2);
+    color: white;
+    border-color: white;
+}
+.hn{
+    font-size: 36px;
+    color:rgb(198, 49, 198);
+}
+.contact{
+    font-size: 36px;
+    color:rgb(198, 49, 198);
+}
+.contact1{
+    display: block;
+    font-size: 25px;
+}
+.contact12:hover{
+    cursor: pointer;
+    color: #0a66c2;
+}
+
+
